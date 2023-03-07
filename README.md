@@ -1,4 +1,4 @@
-```js
+
 <div align="center">
 <h1> 👋 Hi, I’m @Nestrex </h1>
 <p> A Middle school student trying to gradually learn to code ❤ </p>
@@ -18,4 +18,3 @@
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Nestrex&theme=onedark" />
-```
