@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=js,python,nodejs,mongodb,html,css,discord&theme=dark" />
 
 <h1> 📈 My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=githubadresiniz&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nestrex&show_icons=true&theme=dark" />
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Nestrex&theme=onedark" />
